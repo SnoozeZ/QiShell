@@ -177,7 +177,3 @@ int main(int argc, char * argv[])
     }
     return 0;
 }
-
-//http://www.cnblogs.com/weidagang2046/p/io-redirection.html
-//http://kenby.iteye.com/blog/1165923
-//http://whitepig.sinaapp.com/archives/124
